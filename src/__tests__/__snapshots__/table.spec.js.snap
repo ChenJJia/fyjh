@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table render 1`] = `
+"<table width=\\"500\\">
+  <colgroup></colgroup>
+  <thead>
+    <tr></tr>
+  </thead>
+  <tbody></tbody>
+  <div>
+    <ul class=\\"pagine-list\\">
+      <li class=\\"pagine-item page-index active\\">
+        1
+      </li>
+      <li class=\\"pagine-item page-index\\">
+        2
+      </li>
+      <li class=\\"pagine-item page-index\\">
+        3
+      </li>
+      <!---->
+    </ul> <span style=\\"margin-left: 16px;\\">共0项</span>
+  </div>
+</table>"
+`;
